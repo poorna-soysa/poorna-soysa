@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Poorna Soysa 👋
+
+## 🚀 About Me
+- 🌱 I’m currently learning more about cloud architecture and DevOps practices.
+- 👯 I’m looking to collaborate on projects involving .NET development and cloud technologies.
+- 💬 Ask me about anything related to .NET development, Azure, or AWS. I'm always happy to share my knowledge and experiences.
+- 📫 How to reach me: https://www.linkedin.com/in/poorna-soysa/
+
+  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ps-codings&show_icons=true&theme=radical)](https://github.com/ps-codings)
 
 <!--
 **ps-codings/ps-codings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
